@@ -1,4 +1,7 @@
-<struct $
+<struct 
+kjkdfgjkl
+fgnfnk
+
 {
 	
 };
